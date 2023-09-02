@@ -1,4 +1,2 @@
-# GoldenDict
-优秀的词典工具
-
-一个稳定的版本
+# python-code
+敲过的python代码
