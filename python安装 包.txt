@@ -1,0 +1,7 @@
+注：请使用 PowerShell 或 cmd.
+查看已安装的包:"pip list"
+    安装包:"pip install"    +包名
+    卸载包:"pip uninstall"  +包名
+    搜索包:"pip search"     +大概包名
+查看可升级的包:"pip list -o"
+    升级包:"pip install -U" +包名
